@@ -1,0 +1,28 @@
+Test file: 'nyno-starred'
+Reference file 'ref0'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 6573
+Number of words in test: 7325
+Number of unknown words (marked with a star) in test: 55
+Percentage of unknown words: 0.75 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 2133
+Word error rate (WER): 29.12 %
+Number of position-independent word errors: 1998
+Position-independent word error rate (PER): 27.28 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 2152
+Word Error Rate (WER): 29.38 %
+Number of position-independent word errors: 2016
+Position-independent word error rate (PER): 27.52 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 19
+Percentage of unknown words that were free rides: 34.55 %

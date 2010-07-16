@@ -1,0 +1,209 @@
+'''Lingvistikk''' er det [[vitenskapelig]]e studiet av naturlige [[språk]] og tale. Et annet navn på lingvistikk er '''språkvitenskap'''. Utøvere av lingvistikk kalles lingvister. Begrepet lingvist blir av og til feilaktig brukt om en [[polyglott]], altså en som snakker flere språk, men en lingvist trenger ikke nødvendigvis snakke flere språk. Det er to viktige skillelinjer innen lingvistikken:
+%'''Teoretisk''' vs. '''anvendt''': [[Teoretisk lingvistikk]] eller ''almen språkvitenskap'' handler om prinsipper for beskrivelse av forskjellige språk og universelle aspekter ved språk; ''anvendt lingvistikk'', eller ''anvendt språkvitenskap'' søker anvendelse av slike teorier på praktiske problemer, slik som [[pedagogikk]], [[taleteknologi]] eller [[taleterapi]]. 
+%'''Autonom''' vs. '''kulturell''' (disse termene er ikke veletablerte, men det finnes ikke gode alternativer): ''Autonom lingvistikk'' studerer språk og deres egenskaper i abstraksjon fra mange aspekter ved daglig språk''bruk''. Dette er omtrent det [[Ferdinand de Saussure|Saussure]] kalte ''langue'', og [[Noam Chomsky|Chomsky]] har kalt ''I[nternal]-language''. ''Kulturell lingvistikk'' befatter seg med det [[Ferdinand de Saussure|Saussure]] kalte ''parole'', og [[Noam Chomsky|Chomsky]] har kalt ''E[xternal]-language'', nemlig språk som et fenomen som eksisterer uavhengig av den enkelte språkbruker: Man studerer altså dets sosiale funksjon, eller hvordan språkbruk passer inn i en videre kontekst av menneskelig atferd.
+
+Språkforskere som simpelthen kaller seg ''lingvister'' eller ''teoretiske lingvister'', uten videre kvalifikasjoner, driver vanligvis med autonom, teoretisk lingvistikk, og dette er vanligvis sett på som kjernen av feltet. Men språkforskning utføres i en rekke forskjellige retninger, som ikke bestandig er i harmoni med hverandre. Den amerikanske forfatteren og freelancejournalisten Russ Rymer har sagt det slik:
+
+{{Sitat|Linguistics is arguably the most hotly contested property in the academic realm. It is soaked with the blood of poets, theologians, philosophers, philologists, psychologists, biologists, anthropologists, and neurologists, along with whatever blood can be got out of grammarians.}}
+
+==Delemner==
+
+[[Fil:BrocasAreaSmall.png|thumb|[[Brocas område|Brocas]] og [[Wernickes område|Wernickes]] områder har vist seg å være sentrale for språkevnen. For eksempel har slagpasienter som lider av språklig [[afasi]] gjerne skader i disse områdene.]]
+Hovedmålet ved autonom teoretisk lingvistikk er å karakterisere egenskapene ved menneskers språkevne, eller deres språklige kunnskap. Man ønsker å forklare hva det er et individ kan når dette individet snakker et språk, hvordan denne kunnskapen oppsto, og hvordan slik kunnskap interagerer med andre [[kognisjon|kognitive]] systemer. Alle mennesker (dersom vi ser bort fra patologiske tilfeller) tilegner seg sitt morsmål, det språket som anvendes rundt dem i deres oppvekstmiljø, om dette er et talespråk eller et [[tegnspråk]]. Dessuten  oppnår de slik kunnskap uten systematisk opplæring eller instruksjon. Dyrearter det er nærliggende å sammenligne oss med, har ikke denne evnen. Det må derfor eksistere en artsspesifikk genetisk forskjell mellom mennesker og disse dyreartene, og denne forskjellen må ligge til grunn for menneskers evne til å tilegne seg språk. Dette er faktisk ukontroversielt. Det er mye mer kontroversielt om denne artspesifikke, nedarvede egenskapen bør tenkes på som en spesialisert ''modul'' av vår [[kognisjon|kognitive]] utrustning som ''kun'' har med språk å gjøre, altså en ''språkspesifikk'' [[modul (kognisjon)|modul]]. Vi vet imidlertid at det finnes områder av hjernen som er vitale for vår evne til å ha språk, nemlig [[Brocas område]] og [[Wernickes område]].  Siden barn tilegner seg forskjellige språk dersom de vokser opp i forskjellige språkmiljøer, er det naturligvis ingen genetisk basis for forskjellene mellom et språk og et annet.
+
+Språklige strukturer må representere relasjonen mellom betydning og lyd (eller andre metoder for eksternalisering, som i tegnspråk). Lingvister kan spesialisere seg i forskjellige deler av slike lingvistiske strukturer, og disse delene kan arrangeres slik, fra lyd til betydning:
+
+% [[Fonetikk]], studiet av språklyder fra et fysiologisk og akustisk perspektiv
+% [[Fonologi]], studiet av abstrakte strukturer og systemer for organisering av språklyder
+% [[Morfologi (lingvistikk)|Morfologi]], studiet av den interne strukturen i ord
+% [[Syntaks]], studiet av hvordan ord kan kombineres i grammatiske fraser og setninger
+% [[Semantikk]], studiet av betydningen til ord, faste uttrykk, og hvordan disse kan kombineres til de komplekse betydningene til setninger
+% [[Pragmatikk]], studiet av hvordan ytringer brukes i ytringskonteksten
+% [[Diskursanalyse]], studiet av setninger organisert i tekster
+
+Det er noen ganger et kontroversielt spørsmål hvilke av disse kategoriene som er uavhengige av alle de andre, og om noen av dem bør slås sammen. De fleste lingvister ville si seg enige i at det er gråsoner mellom alle disse kategoriene.
+
+Andre spesialiseringsområder kombinerer disse feltene med andre disipliner:
+% [[Språktilegning]], studiet av hvordan språktilegning fungerer
+% [[Historisk lingvistikk]] eller ''diakron'' lingvistikk, studiet av utviklingen av forskjellige språk over tid
+% [[Psykolingvistikk]], studiet av kognitive prosesser og representasjoner som er relaterte til språkbruk
+% [[Sosiolingvistikk]], studiet av sosiale mønstre i språkvariasjon
+% [[Klinisk lingvistikk]], applikasjon av lingvistisk teori til språkpatologier
+
+== Variasjon ==
+En stor del av den forskningen som blir utført innen lingvistikken går på forskjeller og likheter mellom verdens språk. Det er veldig viktig å forstå egenskapene ved språklig variasjon, dersom man skal forstå menneskers språkevne mer generelt: Hvis språkevnen er styrt i detalj av menneskeartens biologiske egenskaper, burde verdens språk være relativt like. Hvis artens biologiske egenskaper har mindre relevans for språkevnen, burde verdens språk være svært forskjellige fra hverandre.
+
+Det finnes forskjellige måter å tolke likheter mellom språk. For eksempel latin, slik det ble snakket av romerne, utviklet seg til dagens spansk, italiensk, fransk, rumensk osv. Mange av likhetene mellom disse språkene kan derfor forklares med at de har utviklet seg fra samme urspråk. Likheter mellom språk kan derfor i prinsippet komme av at de to språkene stammer fra samme urspråk, eller en artsspesifikk egenskap ved den menneskelige språkevnen.
+
+I mange tilfeller kan man utelukke utvikling fra samme urspråk som en mulig forklaring. Naturlige språk har sannsynligvis eksistert helt siden det moderne menneske oppsto for omtrent femti tusen år siden.  Målinger av språkforandring over tid (for eksempel målinger av forskjeller mellom språkene i antikke skriftkilder og deres moderne datterspråk)  viser at språk forandrer seg raskt nok til at det er fullstendig umulig å rekonstruere de språkene som ble snakket for så lenge siden.  Det er derfor ikke vanlig å bruke likheter mellom språk i forskjellige deler av verden som evidens for utvikling fra samme urspråk (språkslektskap).
+
+Det er kanskje enda mer slående at det finnes dokumenterte tilfeller av [[tegnspråk]] som utviklet seg i samfunn av arvelig døve barn som ikke hadde tilegnet seg noe annet språk, og som derfor ikke kunne ha vært utsatt for talespråk. Slike tegnspråk har vist seg å dele mange av de egenskapene som kjennetegner forskjellige talespråk.  Dette støtter opp under hypotesen om at slike språklige likheter bør forklares utfra menneskers artsspesifikke biologiske utrustning, snarere enn språkslektskap.
+
+Et eksempel på en universell generalisering om språk er at det finnes en rekke språk som systematisk plasserer verbet på nest første plass i [[hovedsetning|hovedsetninger]], for eksempel norsk og tysk. Dette kalles vanligvis for V2, og nedenfor er det gitt et eksempel på dette med [[verb]]et i uthevet skrift. Det finnes derimot ''ingen'' språk som ''systematisk'' plasserer verbet på nest siste plass.
+:Grammatisk: Nå '''tar''' vi oss en kopp kaffe.
+:Ugrammatisk: %Nå vi '''tar''' oss en kopp kaffe. 
+
+Et annet eksempel kan finnes i organiseringen av stavelser.  Norsk tillater stavelser som består av en [[konsonant]] (forkortet som "K"), etterfulgt av en [[vokal]] (forkortet som "V"), som igjen følges av en konsonant (eksempel: ''mat''; KVK). Det finnes språk som ''utelukkende'' har KV-stavelser (eksempel:''ta''). De tillater ikke stavelser som ender på en konsonant (KVK eller VK). Men det finnes ''ingen'' språk som ''utelukkende'' tillater VK-stavelser, stavelser som består av en vokal etterfulgt av en konsonant, altså et språk som '''ikke tillater''' stavelser som ''begynner'' på en konsonant (KVK eller KV). Norsk ''tillater'' VK-stavelser (''ut''), men også KV-stavelser (''på'').
+
+Det ser altå ut til at det er umulig for den menneskelige språkevnen å tilegne seg språk som systematisk plasserer verbene på nest siste plass i hovedsetninger, eller språk som systematisk forbyr stavelser som begynner på en konsonant, mens de omvendte systemene (verbet på nest første plass, eller forbud mot VK-stavelser) er relativt vanlige. Grovt sagt kan ansamlingen av slike universelle generaliseringer kalles den [[universell grammatikk|universelle grammatikken]] (eller UG). Dette temaet er imidlertid kontroversielt, og termen brukes på mange forskjellige måter.
+
+Universelle språklige egenskaper (språklige universalier) kan delvis forklares som resultater av universelle egenskaper ved menneskers dagligliv. For eksempel vil alle mennesker være i jevnlig kontakt med vann, så det er ingen stor overraskelse at alle verdens språk har et ord for vann. Når man prøver å finne ut hvilke språklige universalier som stammer fra artens biologiske utrustning må man altså kontrollere for dette.  Men daglige erfaringer er ikke tilstrekkelig for språktilegning, siden dyr som lever rundt mennesker ikke tilegner seg menneskespråk. Dyr ''kan'' tilegne seg eller forstå et begrenset vokabular, men forsøk med sjimpanser og andre relativt intelligente dyrearter har vist at de i beste fall er ''svært'' begrenset med hensyn til tilegning av grammatiske regler.
+
+Skyldes egenskaper ved UG  ''generelle'' egenskaper ved menneskelig kognisjon, eller egenskaper ved menneskelig [[kognisjon]] som er ''språkspesifikke''?  I dag vet vi for lite om kognisjon til å kunne stille dette spørsmålet på en presis måte.  Derfor formuleres lingvistiske generaliseringer ofte uten å ta stilling til dette.
+
+==Egenskaper ved naturlige språk==
+[[Fil:Droste.jpg|thumb|Et rekursivt bilde.  [[Rekursjon]] blir noen ganger kalt «[[Droste-effekten]]» på grunn av emballasjeillustrasjonen for et nederlandsk kakaomerke fra 1904.]]
+[[Fil:Fractal Broccoli.jpg|thumb|Nok en rekursiv struktur. Denne Romanesco-brokkolien viser en [[fraktal]] struktur.]]
+
+Antikkens grekere og indere forsto allerede at naturlige språk organiserer seg rundt grammatiske kategorier, som [[substantiv]]er og [[verb]], [[nominativ]] og [[akkusativ]], eller [[presens]] og [[preteritum]]. 
+
+I tillegg til å bruke slike grammatiske kategorier har naturlige språk den viktige egenskapen at de organiserer elementer i [[rekursjon|rekursive]] strukturer. En [[substantivfrase]] kan inneholde en annen substantivfrase, og en bisetning kan inneholde en annen bisetning. Substantivfrasen ''kongen av Danmarks sønns favorittsjokolade'' er et eksempel på dette. Rekursjon var kjent i lingvistikken tidligere (for eksempel gjennom [[Otto Jespersen (lingvistikk)|Jespersen]]), men det var først etter publiseringen av [[Noam Chomsky]]s bok ''Syntactic structures''<ref>Chomsky, Noam. 1957. "Syntactic Structures". Mouton, the Hague.</ref> i 1957 at man forsto rekkevidden av dette aspektet ved naturlige språk. 
+
+Chomsky brukte en [[kontekstfri grammatikk]] med tillegg av ''transformasjoner'' til å skrive en formell grammatikk for et fragment av [[engelsk]]. Siden har kontekstfrie grammatikker blitt skrevet for store fragmenter av forskjellige språk (for eksempel [[Generalized Phrase Structure Grammar|GPSG]] for engelsk), men det finnes nå matematiske beviser for at kontekstfrie grammatikker ikke kan takle fenomener som kryss-serielle avhengigheter, og disse finnes i naturlige språk. Dette viser altså at man trenger kraftigere mekanismer, for eksempel ''transformasjoner.''
+
+Et eksempel på slike kryss-serielle avhengigheter kommer fra nederlandsk:<ref>Bresnan, Joan, Ronald Kaplan, Stanley Peters, and Annie Zaenen. 1982. Cross-serial dependencies in Dutch. ''Linguistic Inquiry'' 13:613-636.</ref><ref> Shieber, Stuart. 1985. Evidence against the context-freeness of natural language. ''Linguistics and Philosophy'' 8:333-344.</ref>
+
+:Ik denk dat Jan Piet de kinderen zag helpen zwemmen
+:Jeg tror  at Jan Piet  barna  så hjelpe svømme
+:Jeg tror at Jan så Piet hjelpe barna å svømme.
+
+Poenget er at substantivfrasene foran verbklyngen (''Jan, Piet, de kinderen'') avheger av verbene i verbklyngen (''zag, helpen, zwemmen'') i tur og orden fra venstre til høyre.
+
+Dette betyr at formalismer for grammatikker for naturlige språk må være relativt kraftige med hensyn til hva slags strukturer og avhengigheter de kan generere. De modellene vi har for grammatiske strukturer ([[Lexical Functional Grammar|LFG]], [[head-Drivenphrase structure grammar|HPSG]] og [[minimalisme (lingvistikk)|minimalisme]])  er derfor ''for kraftige'' til at vi kan implementere dem i dagens datamaskiner. Komputasjonelle implementeringer er derfor nødt til å forenkle modellene.
+
+==Detaljer om utvalgte delemner og skillelinjer==
+===Kulturell lingvistikk===
+Kulturell lingistikk omfatter studiet av lingvistikk i interaksjon med andre akademiske disipliner. 
+
+[[Sosiolingvistikk]], [[antropologisk lingvistikk]], og [[lingvistisk antropologi]] er samfunnsvitenskaper som betrakter interaksjonen mellom språk og samfunn.
+
+[[Diskursanalyse]] er et område hvor [[retorikk]] og [[filosofi]] interagerer med lingvistikken.
+
+[[Psykolingvistikk]] og [[nevrolingvistikk]] kombinerer [[medisin]] og lingvistikk.
+
+Andre interdisiplinære områder av lingvistikken omfatter [[språktilegnelse]], [[evolusjonær lingvistikk]], [[datalingvistikk]] og [[kognitiv vitenskap]].
+
+===Anvendt lingvistikk===
+Mens teoretisk lingvistikk går ut på å finne og [[deskriptiv lingvistikk|beskrive]] fenomener som kjennetegner den menneskelige språkevnen, både ved å undersøke spesifikke språk og ved å sammenligne forskjellige språk, representerer [[anvendt lingvistikk]] forsøk på å bruke slike funn til å løse problemer i andre områder. Man bruker ofte termen ''anvendt lingvistikk'' om anvendelse av lingvistikk til undervisningsformål, men resultater av lingvistisk forskning benyttes i mange andre sammenhenger også.
+
+I mange områder av anvendt lingvistikk brukes i dag datamaskiner. [[Talesyntese]] og [[talegjenkjenning]] benytter seg av fonetisk og fonologisk kunnskap for å sette datamaskiner istand til å interagere med mennesker ved hjelp av tale. Applikasjoner av komputasjonell lingvistikk til [[maskinoversetting]] og [[naturlig språkprosessering]]  er også veldig fruktbare områder innenfor anvendt lingvistikk som har blitt mer viktige i de senere år på grunn av kraftigere datamaskiner.  Dette har påvirket teorier om syntaks og semantikk, siden modellering av slike teorier på datamaskiner begrenser valget av mulige syntaktiske og semantiske teorier til de som kun benytter seg av ''komputable'' operasjoner og har grundig matematisk fundament.
+
+===Diakron lingvistikk===
+Hoveddelen av teoretisk lingvistikk interesserer seg for språksystemer som modellerer et språk på et bestemt tidspunkt (vanligvis samtiden). Dette kalles  ''synkron lingvistikk.'' ''Diakron lingvistikk'', også kalt ''historisk lingvistikk'',  interesserer seg for hvordan språk forandrer seg over tid.  Diakron lingvistikk har en rik historie. Selve studiet av lingvistikk som akademisk disiplin, vokste ut av diakron forskning på språkforandring. Dermed finnes det også et godt teoretisk fundament for studiet av språkforandring.
+Viktige historiske perspektiver på lingvistikk inkluderer [[historisk-komparativ lingvistikk]] og [[etymologi]].
+
+==Preskriptiv vs. deskriptiv lingvistikk: "Forflatning" av språket==
+I dag er nesten all lingvistisk forskning ''deskriptiv'': man ønsker å undersøke naturlige språks egenskaper uten å bedømme dem eller prøve å "forbedre" dem. Det finnes likevel mange profesjonelle og amatører som liker å "rette på" andres språkbruk og å foreskrive regler som de vil andre skal følge.
+
+Preskriptivister finnes faktisk mest blant språklærere og journalister, og ikke blant akademikere som forsker på lingvistikk. De fastholder et skarpt skille mellom "rett" og "galt" og er ofte selvoppnevnte spesialister på dette. De ser det gjerne som en hovedoppgave å forhindre "språklig forfall."  Hva som bedømmes som "forfall" kan variere fra preskriptivist til preskriptivist, men det inkluderer ofte slike ting som ''lånord'', som kan føles truende for et språks integritet,  og nærmest enhver forandring et språk går igjennom, siden disse ofte blir sett på som forenklinger av det gamle, "riktige" systemet.  Et eksempel på en forandring som har skjedd eller er iferd med å skje i norsk, er skillet mellom ''da'' og ''når.'' En gammel regel sier at ''da'' brukes om spesifikke tidspunkter i fortiden, mens ''når'' kan brukes om ''uspesifikke'' tidspunkter, som ikke nødvendigvis ligger i fortiden. Dette blir ofte oppsummert i regelen "Dengang ''da'', hver gang ''når''." I veldig mange moderne dialekter av norsk kan ''når'' også brukes om spesifikke tidspunkter. Skillet mellom ''da'' og ''når'' er ikke helt utslettet, selv i disse dialektene, for veldig få ville bruke ''da'' om uspesifikke tidspunkter: De to setningene nedenfor kan ikke bety det samme. For de fleste er den siste enten uakseptabel, eller den kan bare brukes til å bety at '''''ettersom''' noen blir alvorlig syke, kan man ringe ambulanse''.  Den forandringen som har skjedd er altså at ''når'' har fått litt utvidet bruksområde og preskriptivister forsøker fortsatt å snu denne og mange andre forandringer norsk er iferd med å gå igjennom. 
+
+# Akseptabel: '''Når''' noen blir alvorlig syke, kan man ringe ambulanse. 
+# Uakseptabel: %'''Da''' noen blir alvorlig syke, kan man ringe ambulanse.
+
+Deskriptivister aksepterer ikke preskriptivistenes begrep om "feil språkbruk." De vil kanskje heller kalle det relevante fenomenet for idiosynkratisk, eller også oppdage at det nye fenomenet følger regler som simpelthen er annerledes enn de gamle. Her er et eksempel på det: En preskriptiv regel for norsk sier at man ikke skal bruke infinitivsmerket ''å'' etter [[verb|modale hjelpeverb]]. Men en rekke norske [[dialekt]]er og [[sosiolekt]]er benytter systematisk infinitivsmerket etter modaler som refererer til ''ferdigheter'', men aldri etter andre modaler.  I disse dialektene, kan følgende setning bare bety at Jens har de nødvendige ''ferdighetene'' som skal til for å sykle. Den kan ''ikke'' bety at han ''får lov'' til å sykle, eller at det ''kan hende'' at Jens sykler.  
+::Jens kan å sykle.
+Hvis man ønsker å formidle en av de to andre betydningene, må man droppe infinitivsmerket, selv i disse dialektene.  Dialekter som følger den relevante preskriptive regelen (aldri infinitivsmerke etter modale hjelpeverb) er altså ikke istand til å gjøre skille mellom ferdighetsbetydningen og de andre betydningene på samme måte. Det er altså vanskelig å forsvare stanpunktet at de dialektene som "bryter" regelen er "mindreverdige" på noen måte, sammenlignet med de dialektene som "følger" den. I deskriptiv lingvistikk ønsker man altså å beskrive språk på en vitenskapelig måte. Verdivurderinger har ingen plass i slik forskning.
+
+==Talespråk og skriftspråk==
+De fleste lingvister er av den oppfatningen at [[talespråk]] er mer fundamentalt, og derfor viktigere å studere, enn [[skriftspråk]]. 
+Grunner til dette er:
+% Talespråk ser ut til å være universelt for menneskelige kulturer. Det finnes mange kulturer som har et talespråk, men som ikke har noe konvensjonelt skriftsystem.
+% Folk tilegner seg talespråk enklere og tidligere enn skriftspråk.
+% Mange innenfor [[kognisjonsvitenskap]]en argumenterer for at det finnes en medfødt [[språkmodul]], og dersom man er interessert i å belyse denne hypotesen, vil forskning på talespråk gi bedre resultater enn forskning på skriftspråk. Dette gjelder særlig fordi talespråk anses som et resultat av artens evolusjon, mens skriftspråk er en relativt ny oppfinnelse i den sammenhengen.
+
+Lingvister bruker selvsagt skriftspråklig kildemateriale i sin forskning, og dette anses som viktig og verdifullt. I [[korpuslingvistikk]] og [[datalingvistikk]] er skriftspråk mye enklere å bruke hvis man er interessert i å prosessere store mengder av språklige data.  Store [[korpus (lingvistikk)|korpora]] med talespråk er vanskelige å lage, og når man lager slike blir ofte materialet ''transkribert'' og skrevet ned.
+
+Studiet av [[skriftsystemer]] blir uansett ansett som en del av lingvistikken.
+
+==Lingvistikkens historie==
+
+[[Indisk historie|Gammelindiske]] [[Veda|Vediske]] tekster (''[[Rigveda|Rig Veda]]'' 1:164:45; 4:58:3; 10:125) antyder en struktur for språk: Setninger er kombinasjoner av ord som har to distinkte former for eksistens (vokal form, ordet, og persepsjonell form, betydningen). Disse ordene anerkjennes for det meste som verb, som representerer handlinger i den virkelige verden, og [[substantiv]]er som kan ta sju forskjellige kasus (avhengig av hvilke måte de deltar i handlinger i den virkelige verden). Antallet kasus er ikke viktig her: Idéen er at substantiver bøyes for å indikere deres deltagelsesmåte i de relevante handlingene.
+
+[[sanskrit|Sanskritgrammatikeren]] {{Unicode|[[Pāṇini]]}} (ca. 520 til 460 f.Kr.) er den første kjente lingvisten og anerkjennes som grunnleggeren av lingvistikk. Han er mest berømt for å formulere de 3959 reglene for sanskrit i teksten ''{{Unicode|[[Aṣṭādhyāyī]]}}'', som fortsatt er i bruk. {{Unicode|Pāṇinis}} grammatikk for sanskrit er svært systematisk og teknisk.   Han benyttet seg av konsepter som [[fonem|fonemer]], [[morfem|morfemer]] og [[ord|røtter]], begreper som først ble gjenoppdaget mer enn to tusen år etter hans tid. Hans grammatikk er veldig kortfattet, og er derfor kontraintuitiv og vanskelig å lese, sammenlignbart med dagens [[maskinspråk]] (i motsetning til mer leselige [[programmeringsspråk]]). Hans sofistikerte logiske regler og teknikker har vært veldig innflytelsesrike i gammeldags og moderne lingvistikk.
+
+Den sørindiske lingvisten  [[Tolkaappiyar|Tolkāppiyar]] (omtrent det tredje århundre f.Kr) skrev teksten ''[[Tolkāppiyam]]'', grammatikken for [[tamil]], som også fortsatt er i bruk.  [[Bhartrihari]] (450-510) var en annen viktig indisk lingvist. Han foreslo teorier som sa at [[talehandlinger]] består av fire stadier: Først, ''konseptualisering'' av en idé; så ''verbalisering'' av denne idéen; deretter formidling av ''tale'' i luften; og til slutt tolkning av talesignalet av tilhøreren. {{Unicode|Pāṇinis}} og  Bhartriharis arbeider hadde stor innflytelse på mange av de grunnleggende idéene som mye senere ble foreslått av sanskritprofessoren [[Ferdinand de Saussure]], som blir ansett som den moderne lingvistikkens opphavsmann.
+
+I det monumentale verket ''Al-kitab fi al-nahw'' (الكتاب في النحو, ''Boken om grammatikk'' 760 e.Kr.) beskrev den persiske lingvisten [[Sibawayh]] [[klassisk arabisk]] med stor presisjon. I dette verket ble [[fonetikk]] skilt fra [[fonologi]].
+
+Andre inflytelsesrike lingvister er:
+%[[Jakob Grimm]], som i 1822 fant prinsippet for konsonantforandringer i uttale, kjent som [[Grimms lov]];
+%[[Karl Verner]], som oppdaget [[Verners lov]];
+%[[August Schleicher]], som utviklet ''Stammbaumteorien'' for språkforandring;
+%[[Johannes Schmidt]], som utviklet ''bølgemodellen'' for språkforandring i 1872;
+%[[Ferdinand de Saussure]], som er grunnleggeren av moderne strukturell lingvistikk;
+%[[Edward Sapir]], som var en av de første som forfulgte relasjonene mellom språk og [[antropologi]];
+%[[Noam Chomsky]]s formelle språkteori ble utviklet under innflytelse av hans lærer [[Zelig Harris]], som igjen var sterkt påvirket av [[Leonard Bloomfield]]. Chomskys teori har vært dominant siden 1960-årene.
+
+Chomsky forblir den aller mest innflytelsesrike lingvisten i dag. Lingvister som arbeider i forskningsparadigmer som [[Head-driven phrase structure grammar|HPSG]] eller [[lexical functional grammar|LFG]] understreker gjerne betydningen av formalisering og matematisk presisjon i lingvistiske teorier, og tar en viss avstand fra Chomskys senere arbeider.<ref>Chomsky,Noam. 1995, A mimimalist program for linguistic theory. Cambridge: MIT Press.</ref>, men identifiserer seg mer med Chomskys tidligere arbeider. Lingvister som arbeider med [[optimalitetsteori]] uttrykker generaliseringer ved hjelp av regler som kan krenkes, noe som utgjør et større avvik fra hovedstrømningene innenfor moderne lingvistikk. Lingvister som arbeider innefor forskjellige typer [[funksjonalistisk lingvistikk]] og [[kognitiv lingvistikk]] mener at lingvistisk kunnskap ikke er en autonom del av menneskets kognitive utrustning, og betviler påstander om at lingvistiske generaliseringer er universelle.
+
+==Lenker==
+===Interdisiplinær lingvistisk forskning===
+% [[Antropologisk lingvistikk]]
+% [[Andrespråkstilegning]]
+% [[Desifrering]]
+% [[Evolusjonslingvistikk]]
+% [[Historisk lingvistikk|Komparativ lingvistikk]]
+% [[Juridisk lingvistikk]]
+% [[Kognitiv lingvistikk]]
+% [[Kognisjonsvitenskap]]
+% [[Datalingvistikk]]
+%% [[Maskinoversetting]]
+%% [[Naturlig språkprosessering]]
+%% [[Stemmegjenkjenning]] 
+%% [[talegjenkjenning]]
+%% [[talesyntese]]
+% [[kryptoanalyse]]
+% [[Nevrolingvistikk]]
+% [[Ortografi]]
+% [[Skriftsystem]]er
+% [[Språktilegnelse]]
+% [[Tekstlingvistikk]]
+
+===Se også===
+% [[informasjon|Data]] og [[programmering]]
+% [[Deskriptiv lingvistikk]]
+% [[Fonetikk]]
+% [[Fonologi]]
+% [[Historisk lingvistikk]]
+% [[Leksikografi]]
+% [[Leksikologi]]
+% [[Kognisjonsvitenskap]]
+% [[Korpuslingvistikk]]
+% [[Lingvistikkens historie]]
+% [[Morfologi (lingvistikk)|Morfologi]]
+% [[Pragmatikk]]
+% [[Sanskrit]]
+% [[Semantikk]]
+% [[Semiotikk]]
+% [[Sosiolingvistikk]]
+% [[Strukturalisme]]
+% [[Syntaks]]
+% [[Lingvistisk typologi|Typologi]]
+
+==Referanser==
+<references />
+
+===Lærebøker===
+
+===Akademiske verker===
+===Populærvitenskapelige verker===
+===Referanseverker===
+==Eksterne lenker==
+{{Wikibookspar|Wikiversity|School of Linguistics}}
+% [http://www.lsadc.org/info/ling-fields.cfm Delområder av lingvistikk ifølge the Linguistic Society of America]
+% [http://www.specgram.com/CL.1/06.schadenpoodle.guide1.html En foreløpig guide til feltet, del1]: En humoristisk oversikt over forskjellige deler av lingvistikken og dens utøvere. Det finnes også en [http://www.specgram.com/CL.2/05.schadenpoodle.guide2.html del 2].
+% [http://www.linguistlist.org  Linguist List]
+% [http://www.lingforum.com  Lingvistikkforum]
+% [http://lingformant.vertebratesilence.com Lingformant: Språvitenskap i nyhetene]
+% [http://www2.let.uu.nl/UiL-OTS/Lexicon/ Lexicon of Linguistics av Johan Kerstens, Eddy Ruys og Joost Zwarts ved  Utrecht institute of Linguistics OTS, Universitetet i Utrecht]
+% [http://www.linguistics-journal.com/ Linguistics Research Journal]
+% [http://www.linguistics-online.com/ The Virtual Linguistics Campus, The world's largest E-Learning Platform for Linguistics]
+% [http://www.gestalttheory.net/linguistics/ Gestalt Theory and Linguistics]
+% [http://www.zompist.com/langfaq.html sci.lang FAQ'en om lingvistikk]
+
+===Representasjon av tale===
+% [[International Phonetic Alphabet]] (IPA), er et system som brukes til transkribere og reprodusere [[fonetikk|språklyder]].
+% [[SAMPA]] er et [[ASCII]]-basert transkripsjonssystem for IPS som brukes av noen lingvister. Se [http://www.phon.ucl.ac.uk/home/sampa/home.htm  SAMPA hjemmesiden].
+
+[[Kategori:Lingvistikk| ]]
+[[Kategori:Viktige artikler]]

@@ -1,0 +1,28 @@
+Test file: 'apertium-starred'
+Reference file 'ref0'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 6573
+Number of words in test: 7358
+Number of unknown words (marked with a star) in test: 723
+Percentage of unknown words: 9.83 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 2391
+Word error rate (WER): 32.50 %
+Number of position-independent word errors: 2245
+Position-independent word error rate (PER): 30.51 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 2652
+Word Error Rate (WER): 36.04 %
+Number of position-independent word errors: 2507
+Position-independent word error rate (PER): 34.07 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 261
+Percentage of unknown words that were free rides: 36.10 %

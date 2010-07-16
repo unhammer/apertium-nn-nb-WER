@@ -1,0 +1,15 @@
+### First replace all *'s with %'s in nb.[].wiki
+
+$ cat nb.[].wiki |apertium nb-nn >nn.MT.[].wiki
+$ cp nn.MT.[].wiki nn.edited.[].wiki
+### and edit
+
+$ cp nb.[].wiki nb._.wiki
+$ cp nn.MT.[].wiki nn.MT._.wiki
+$ cp nn.edited.[].wiki nn.edited._.wiki
+### then remove []'s from nn.*._.wiki
+
+### We use the _-versions for WER, the []-versions for Wikipedia.
+
+$ apertium-eval-translator -t nn.MT._.wiki -r nn.edited._.wiki
+

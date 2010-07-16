@@ -1,0 +1,78 @@
+| mode     | reference | WER w/free-rides | WER w/o free-rides | % unknown words |
+|----------+-----------+------------------+--------------------+-----------------|
+| nb-nn-cp | Beltedyr  |            17.25 |              18.07 |            6.16 |
+| nb-nn    | Beltedyr  |            17.25 |              19.92 |            8.21 |
+
+
+####################################################################
+# 2010-07-16-apertium-nb-nn-cp is the newest nb-nn translator,     #
+# with compound handling on                                        #
+####################################################################
+
+
+$ apertium-eval-translator -t nn-cp.MT-2010-07-16._.wiki -r nn.edited._.wiki
+Test file: 'nn-cp.MT-2010-07-16._.wiki'
+Reference file 'nn.edited._.wiki'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 485
+Number of words in test: 487
+Number of unknown words (marked with a star) in test: 30
+Percentage of unknown words: 6.16 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 84
+Word error rate (WER): 17.25 %
+Number of position-independent word errors: 78
+Position-independent word error rate (PER): 16.02 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 88
+Word Error Rate (WER): 18.07 %
+Number of position-independent word errors: 82
+Position-independent word error rate (PER): 16.84 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 4
+Percentage of unknown words that were free rides: 13.33 %
+
+
+####################################################################
+# 2010-07-16-apertium-nb-nn is the newest nb-nn translator,        #
+# running without compound handling                                #
+####################################################################
+
+
+$ apertium-eval-translator -t nn.MT-2010-07-16._.wiki -r nn.edited._.wiki
+Test file: 'nn.MT-2010-07-16._.wiki'
+Reference file 'nn.edited._.wiki'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 485
+Number of words in test: 487
+Number of unknown words (marked with a star) in test: 40
+Percentage of unknown words: 8.21 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 84
+Word error rate (WER): 17.25 %
+Number of position-independent word errors: 78
+Position-independent word error rate (PER): 16.02 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 97
+Word Error Rate (WER): 19.92 %
+Number of position-independent word errors: 91
+Position-independent word error rate (PER): 18.69 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 13
+Percentage of unknown words that were free rides: 32.50 %

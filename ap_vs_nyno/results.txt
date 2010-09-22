@@ -1,16 +1,150 @@
-| mode      | reference | WER w/free-rides | WER w/o free-rides | % unknown words |
-|-----------+-----------+------------------+--------------------+-----------------|
-| nb-nn-cp  | ref0      |            32.37 |              34.02 |            5.21 |
-|           | ref1      |            17.22 |              19.60 |            5.21 |
-| nb-nn     | ref0      |            32.68 |              36.08 |            9.48 |
-|           | ref1      |            17.75 |              22.50 |            9.48 |
-| old nb-nn | ref0      |            30.51 |              36.04 |            9.83 |
-|           | ref1      |            17.74 |              22.70 |            9.83 |
+|       date | mode     | reference | WER w/free-rides | WER w/o free-rides | % unknown words |
+|------------+----------+-----------+------------------+--------------------+-----------------|
+| 2010-09-20 | nb-nn-cp | ref0      |            32.39 |              33.88 |            4.91 |
+| 2010-09-20 | nb-nn-cp | ref1      |            17.36 |              19.49 |            4.91 |
+| 2010-09-20 | nb-nn    | ref0      |            32.25 |              35.63 |            9.38 |
+| 2010-09-20 | nb-nn    | ref1      |            17.27 |              22.02 |            9.38 |
+|------------+----------+-----------+------------------+--------------------+-----------------|
+| 2010-07-16 | nb-nn-cp | ref0      |            32.37 |              34.02 |            5.21 |
+| 2010-07-16 | nb-nn-cp | ref1      |            17.22 |              19.60 |            5.21 |
+| 2010-07-16 | nb-nn    | ref0      |            32.68 |              36.08 |            9.48 |
+| 2010-07-16 | nb-nn    | ref1      |            17.75 |              22.50 |            9.48 |
+|------------+----------+-----------+------------------+--------------------+-----------------|
+| 2009-10-12 | nb-nn    | ref0      |            30.51 |              36.04 |            9.83 |
+| 2009-10-12 | nb-nn    | ref1      |            17.74 |              22.70 |            9.83 |
+
+####################################################################
+# 2010-09-20-apertium-nb-nn-cp has compound handling on            #
+####################################################################
+
+$ apertium-eval-translator -t ap_vs_nyno/2010-09-20-apertium-nb-nn-cp -r ap_vs_nyno/nn.ref1
+Test file: 'ap_vs_nyno/2010-09-20-apertium-nb-nn-cp'
+Reference file 'ap_vs_nyno/nn.ref1'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 7372
+Number of words in test: 7367
+Number of unknown words (marked with a star) in test: 362
+Percentage of unknown words: 4.91 %
+
+^[Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 1279
+Word error rate (WER): 17.36 %
+Number of position-independent word errors: 973
+Position-independent word error rate (PER): 13.21 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 1436
+Word Error Rate (WER): 19.49 %
+Number of position-independent word errors: 1134
+Position-independent word error rate (PER): 15.39 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 157
+Percentage of unknown words that were free rides: 43.37 %
+
+$ apertium-eval-translator -t ap_vs_nyno/2010-09-20-apertium-nb-nn-cp -r ap_vs_nyno/nn.ref0
+Test file: 'ap_vs_nyno/2010-09-20-apertium-nb-nn-cp'
+Reference file 'ap_vs_nyno/nn.ref0'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 6573
+Number of words in test: 7367
+Number of unknown words (marked with a star) in test: 362
+Percentage of unknown words: 4.91 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 2386
+Word error rate (WER): 32.39 %
+Number of position-independent word errors: 2245
+Position-independent word error rate (PER): 30.47 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 2496
+Word Error Rate (WER): 33.88 %
+Number of position-independent word errors: 2354
+Position-independent word error rate (PER): 31.95 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 110
+Percentage of unknown words that were free rides: 30.39 %
+
+####################################################################
+# 2010-09-20-apertium-nb-nn is without compound handling           #
+####################################################################
+
+$ apertium-eval-translator -t ap_vs_nyno/2010-09-20-apertium-nb-nn -r ap_vs_nyno/nn.ref0
+Test file: 'ap_vs_nyno/2010-09-20-apertium-nb-nn'
+Reference file 'ap_vs_nyno/nn.ref0'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 6573
+Number of words in test: 7358
+Number of unknown words (marked with a star) in test: 690
+Percentage of unknown words: 9.38 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 2373
+Word error rate (WER): 32.25 %
+Number of position-independent word errors: 2236
+Position-independent word error rate (PER): 30.39 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 2622
+Word Error Rate (WER): 35.63 %
+Number of position-independent word errors: 2487
+Position-independent word error rate (PER): 33.80 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 249
+Percentage of unknown words that were free rides: 36.09 %
+
+
+$ apertium-eval-translator -t ap_vs_nyno/2010-09-20-apertium-nb-nn -r ap_vs_nyno/nn.ref1
+Test file: 'ap_vs_nyno/2010-09-20-apertium-nb-nn'
+Reference file 'ap_vs_nyno/nn.ref1'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 7372
+Number of words in test: 7358
+Number of unknown words (marked with a star) in test: 690
+Percentage of unknown words: 9.38 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 1271
+Word error rate (WER): 17.27 %
+Number of position-independent word errors: 974
+Position-independent word error rate (PER): 13.24 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 1620
+Word Error Rate (WER): 22.02 %
+Number of position-independent word errors: 1329
+Position-independent word error rate (PER): 18.06 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 349
+Percentage of unknown words that were free rides: 50.58 %
 
 
 ####################################################################
-# 2010-07-16-apertium-nb-nn-cp is the newest nb-nn translator,     #
-# with compound handling on                                        #
+# 2010-07-16-apertium-nb-nn-cp has compound handling on            #
 ####################################################################
 
 
@@ -77,8 +211,7 @@ Percentage of unknown words that were free rides: 45.83 %
 
 
 ####################################################################
-# 2010-07-16-apertium-nb-nn is the newest nb-nn translator,        #
-# running without compound handling                                #
+# 2010-07-16-apertium-nb-nn is without compound handling           #
 ####################################################################
 
 

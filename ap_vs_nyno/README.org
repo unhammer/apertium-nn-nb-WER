@@ -11,17 +11,17 @@ This directory contains evaluation material used in the paper
 
 
 *The original nb text:*
-- =nb=
+- [[http://github.com/unhammer/apertium-nn-nb-WER/blob/master/ap_vs_nyno/nb][nb]]
 
 *The two reference translations:*
-- =nn.ref0=
-- =nn.ref1=
+- [[http://github.com/unhammer/apertium-nn-nb-WER/blob/master/ap_vs_nyno/nn.ref0][nn.ref0]]
+- [[http://github.com/unhammer/apertium-nn-nb-WER/blob/master/ap_vs_nyno/nn.ref1][nn.ref1]]
 
 *The Nyno MT output:*
-- =2009-10-12-nyno=
+- [[http://github.com/unhammer/apertium-nn-nb-WER/blob/master/ap_vs_nyno/2009-10-12-nyno][2009-10-12-nyno]]
 
 *The apertium-nn-nb output from that original eval:*
-- =2009-10-12-apertium-nb-nn=
+- [[http://github.com/unhammer/apertium-nn-nb-WER/blob/master/ap_vs_nyno/2009-10-12-apertium-nb-nn][2009-10-12-apertium-nb-nn]]
 
 The rest of the files starting with DATE-apertium-MODE are MT runs from that date.
 

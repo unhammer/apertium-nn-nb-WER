@@ -1,0 +1,9 @@
+WER test set for [[http://wiki.apertium.org/wiki/Norwegian_Nynorsk_and_Norwegian_Bokm%C3%A5l][apertium-nn-nb]], see [[http://github.com/unhammer/apertium-nn-nb-WER/blob/master//all-results.txt][all-results.txt]]
+
+Files beginning with =u.= have no unknown word marks.
+
+Files with names =nb-nn-cp= are with compound analysis
+
+The ap_vs_nyno source text is government text, includes a file with
+output from [[http://nyno.no/][Nyno]] and two /pre-translated/ reference translations, the
+other two are Wikipedia texts /post-edited/ from Apertium MT output.

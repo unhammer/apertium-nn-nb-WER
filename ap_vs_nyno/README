@@ -1,0 +1,28 @@
+This directory contains evaluation material used in the paper 
+
+   Unhammer, Kevin; Trosterud, Trond. "Reuse of free resources in
+   machine translation between Nynorsk and Bokmål". In: Proceedings of
+   the First International Workshop on Free/Open-Source Rule-Based
+   Machine Translation / Edited by Juan Antonio Pérez-Ortiz, Felipe
+   Sánchez-Martínez, Francis M. Tyers. Alicante : Universidad de
+   Alicante. Departamento de Lenguajes y Sistemas Informáticos, 2009,
+   pp. 35-42. Available from http://rua.ua.es/dspace/handle/10045/12025 
+
+
+
+The original nb text:
+ nb
+
+The two reference translations:
+ nn.ref0
+ nn.ref1
+
+The Nyno MT output:
+ 2009-10-12-nyno
+
+The apertium-nn-nb output from that original eval:
+ 2009-10-12-apertium-nb-nn
+
+The rest of the files starting with DATE-apertium-MODE are MT runs from that date.
+
+Files starting with "u." have no unknown word marks.

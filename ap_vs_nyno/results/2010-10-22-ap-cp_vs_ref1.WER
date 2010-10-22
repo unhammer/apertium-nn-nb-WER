@@ -1,0 +1,28 @@
+Test file: '2010-10-22-apertium-nb-nn-cp'
+Reference file 'nn.ref1'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 7372
+Number of words in test: 7362
+Number of unknown words (marked with a star) in test: 369
+Percentage of unknown words: 5.01 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 1269
+Word error rate (WER): 17.24 %
+Number of position-independent word errors: 963
+Position-independent word error rate (PER): 13.08 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 1425
+Word Error Rate (WER): 19.36 %
+Number of position-independent word errors: 1123
+Position-independent word error rate (PER): 15.25 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 156
+Percentage of unknown words that were free rides: 42.28 %
